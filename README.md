@@ -12,15 +12,26 @@
 
 
 ## Screenshots
+
 ![Digital Clock project](https://github.com/amritrv2604/digitalClock/blob/main/assets/DigitalClock.png?raw=true)
 - This is how the interface looks like.
 
 
+## Deployment
+
+To deploy this project in your loacl system, run:
+```bash
+gh repo clone amritrv2604/digitalClock
+```
+
+
 ## Technologies Used
+
 - HTML: Defines the structure of the clock.
 - CSS: Styles the appearance of the clock and background.
 - JavaScript: Provides the logic to update the clock's display in real time.
 
 
 ## Contributing
+
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
