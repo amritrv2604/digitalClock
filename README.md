@@ -13,7 +13,7 @@
 
 ## Screenshots
 ![Digital Clock project](https://github.com/amritrv2604/digitalClock/blob/main/assets/DigitalClock.png?raw=true)
-This is how the interface looks like.
+- This is how the interface looks like.
 
 
 ## Technologies Used
