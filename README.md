@@ -12,7 +12,7 @@
 
 
 ## Screenshots
-![Digital Clock project](https://drive.google.com/file/d/1NDwmGQZJlAQOAd4kwivLq6YV7JwH75--/view?usp=sharing)
+![Digital Clock project](https://github.com/amritrv2604/digitalClock/blob/main/assets/DigitalClock.png?raw=true)
 This is how the interface looks like.
 
 
