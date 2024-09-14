@@ -19,7 +19,7 @@
 
 ## Deployment
 
-To deploy this project in your loacl system, run:
+To deploy this project in your local system, run:
 ```bash
 gh repo clone amritrv2604/digitalClock
 ```
