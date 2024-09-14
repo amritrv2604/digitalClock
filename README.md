@@ -10,5 +10,17 @@
 - A scenic sunset image provides a visually pleasing backdrop.
 - You can easily modify the CSS styles to personalize the clock's appearance.
 
+
 ## Screenshots
 ![Digital Clock project](https://drive.google.com/file/d/1NDwmGQZJlAQOAd4kwivLq6YV7JwH75--/view?usp=sharing)
+This is how the interface looks like.
+
+
+## Technologies Used
+- HTML: Defines the structure of the clock.
+- CSS: Styles the appearance of the clock and background.
+- JavaScript: Provides the logic to update the clock's display in real time.
+
+
+## Contributing
+Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
