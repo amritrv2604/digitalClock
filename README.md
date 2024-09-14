@@ -1,4 +1,4 @@
-# digitalClock
+# DigitalClock
 
 <p>This is a visually appealing digital clock application built using HTML, CSS, and JavaScript. It provides accurate real-time display of the current time. The clock's design is inspired by serene landscapes and features a stunning sunset backdrop, creating a calming and enjoyable user experience.</p>
 
